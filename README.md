@@ -1,0 +1,2 @@
+# practicaAlgoritmosSecuenciales
+Created with CodeSandbox
